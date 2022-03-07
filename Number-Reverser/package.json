@@ -1,0 +1,11 @@
+{
+  "name": "number-reverser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Number_Reverser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joy Kevin",
+  "license": "ISC"
+}
